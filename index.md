@@ -15,4 +15,4 @@ Lab 10, part-1
 
 Lab 1, part-1
 
-	This is my most memorable lab because we knew almost nothing. We didn’t know how to save files or how to test or push them to github. Lab 1 was a good introduction to the process we used all semester to start and finish our labs. 
+	This is my most memorable lab because we knew almost nothing. We didn’t know how to save files or how to test or push them to github. Lab 1 was a good introduction to the process we used all semester to start and finish our labs.
